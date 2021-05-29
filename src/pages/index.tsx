@@ -11,6 +11,7 @@ interface HomeProps {
   }
 }
 
+// save
 export default function Home({ product }: HomeProps) {
   return (
     <>
